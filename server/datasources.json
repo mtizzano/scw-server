@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "dbpostgres": {
+    "host": "localhost",
+    "port": 5433,
+    "url": "",
+    "database": "scwdb",
+    "password": "admin",
+    "name": "dbpostgres",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
